@@ -3,6 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@fortawesome/free-solid-svg-icons": "^6.4.2",
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "@syncfusion/ej2-icons": "^23.1.36",
+    "@syncfusion/ej2-react-dropdowns": "^23.1.43",
+    "@syncfusion/ej2-react-navigations": "^23.1.44",
+    "@syncfusion/ej2-react-richtexteditor": "^23.1.44",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
@@ -12,7 +18,9 @@
     "@types/react-dom": "^18.2.14",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-resizable": "^3.0.5",
     "react-scripts": "5.0.1",
+    "sass": "^1.69.5",
     "typescript": "^4.9.5",
     "web-vitals": "^2.1.4"
   },

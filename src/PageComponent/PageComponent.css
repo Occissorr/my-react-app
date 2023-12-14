@@ -1,0 +1,14 @@
+.page-container {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    .e-toolbar-item {
+        width: 22px;
+        height: 22px;
+    }
+    .e-toolbar-items {
+        display: flex;
+        gap: 20px;
+    }
+}
